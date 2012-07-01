@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/ScreenshotPage.qml</file>
+        <file>js/UI.js</file>
+        <file>qml/SettingsSheet.qml</file>
+    </qresource>
+</RCC>

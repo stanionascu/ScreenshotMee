@@ -1,0 +1,20 @@
+screenshotmee (0.4.0) unstable; urgency=low
+  * Provide configurable settings.
+  * Allow to set storage path.
+  * Autohide screenshotmee window.
+  * Minor UI tweak.
+
+ -- Stanislav Ionascu <stanislav.ionascu@gmail.com>  Thu, 05 Jan 2012 11:55:43 +0100
+
+screenshotmee (0.3.3) unstable; urgency=low
+  * Preserve aspect for screenshots.
+  * Support for landscape mode.
+  * In app screenshot rotation feature.
+  * Reduce package size.
+
+ -- Stanislav Ionascu <stanislav.ionascu@gmail.com>  Sat, 16 Jul 2011 13:20:08 +0300
+
+screenshotmee (0.3.0) unstable; urgency=low
+  * Initial Release.
+
+ -- Stanislav Ionascu <stanislav.ionascu@gmail.com>  Sat, 16 Jul 2011 13:20:08 +0300

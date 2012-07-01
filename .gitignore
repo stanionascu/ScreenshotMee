@@ -1,0 +1,9 @@
+.moc
+.obj
+bin
+*.deb
+*.changes
+.DS_Store
+debian
+*.pro.user
+Makefile
